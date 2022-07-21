@@ -1,13 +1,6 @@
 site_name: My Docs
 theme:
   name: material
-    logo:
-        icon: "mkdocs"
-    palette:
-        primary: "black"
-        accent: "deep orange"
-    language: "zh"
-
 
 nav:
   - 介绍: index.md
